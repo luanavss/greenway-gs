@@ -18,6 +18,7 @@ A solução combina tecnologias modernas para oferecer um impacto positivo na mo
 - Impacto Positivo: Expansão da acessibilidade em regiões carentes e redução de emissões de CO₂.
 
 ## Protótipo das telas
+<img src="./images/Untitled.png" width=800/>
 
 Link do figma: `https://www.figma.com/design/UV9hQkKj6jHhML5hIInBaF/Untitled?t=ZBdGZBkpEzCSyfe9-0`
 
